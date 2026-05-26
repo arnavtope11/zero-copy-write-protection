@@ -47,8 +47,8 @@ This system enables direct memory access for I/O devices while maintaining appli
 ### Build Instructions
 
 ```bash
-git clone https://github.com/viralbhadeshiya/ECS-289D-final-project.git
-cd ECS-289D-final-project
+git clone https://github.com/arnavtope11/zero-copy-write-protection.git
+cd zero-copy-write-protection
 make
 ```
 
